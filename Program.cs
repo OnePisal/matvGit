@@ -8,6 +8,7 @@ namespace matvGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Matey");
+             Console.WriteLine("kek");
         }
     }
 }
